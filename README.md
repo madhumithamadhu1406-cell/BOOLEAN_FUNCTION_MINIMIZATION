@@ -32,6 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
 F(A,B,C,D)=AB+CD+AD
 
 module boolean_function_4var (
